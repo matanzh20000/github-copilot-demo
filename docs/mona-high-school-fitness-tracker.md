@@ -279,7 +279,7 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOW_ALL_ORIGINS = True
-```
+```   
 
 ### Sample code for models.py, serializers.py, views.py, and urls.py
 
